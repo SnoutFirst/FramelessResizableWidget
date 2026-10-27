@@ -17,7 +17,7 @@ cmake --build build
 ./build/FramelessResizableWidget
 ```
 
-Press `Esc` to quit.
+Press `Esc`, or click the button, to quit.
 
 ## License
 
